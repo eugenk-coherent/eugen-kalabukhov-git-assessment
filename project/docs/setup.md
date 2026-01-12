@@ -5,3 +5,5 @@
   2. Clone the repository
 
   3. Open the project in your code editor
+
+  4. Run the application
