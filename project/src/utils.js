@@ -9,7 +9,7 @@ module.exports = { sayHello };
 // Input validation utilities
 
 function validateInput(value) {
-   return value !== null && value !== undefined && value !== "";
+   return value !== null && value !== undefined && value !== ""; // hot fix
 }
 
 module.exports.validateInput = validateInput;
