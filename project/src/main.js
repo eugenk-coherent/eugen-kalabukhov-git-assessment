@@ -1,5 +1,5 @@
 // Entry point of the application
-console.log("Git assessment project started");
+console.log("Application started");
 
 // Authentication logic
 
