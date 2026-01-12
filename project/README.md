@@ -19,3 +19,4 @@
 
     All Git operations in this repository were performed as part of a training exercise to demonstrate best practices.    
 
+    Temporary note for reflog demonstration.
