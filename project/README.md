@@ -12,6 +12,10 @@
 
 ## Project Structure
     
-    - src/ - source code files
-    - docs/ - project documentation
+    - **src/** - source code files  
+    - **docs/** - project documentation  
+
+ ## Notes
+
+    All Git operations in this repository were performed as part of a training exercise to demonstrate best practices.    
 
