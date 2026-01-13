@@ -24,3 +24,4 @@ Temporary note for reflog demonstration.
 ## Additional Notes
 
 This section was added as part of a collaborative workflow simulation.
+Login validation behavior is documented as part of Issue #1 investigation.
