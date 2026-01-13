@@ -18,19 +18,21 @@ The project simulates a simple JavaScript-based application with authentication,
 The source code is provided for demonstration purposes only.
 
 ## Repository Structure
-        
- .
- ├── README.md
- └── project/
+
+```markdown        
+.
+├── README.md
+└── project/
+```
 
  ## Installation
 
  Clone the repository locally:
 
-     ```bash
-     git clone https://github.com/eugenk-coherent/eugen-kalabukhov-git-assessment
-     cd eugen-kalabukhov-git-assessment
-     ```
+ ```bash
+ git clone https://github.com/eugenk-coherent/eugen-kalabukhov-git-assessment
+ cd eugen-kalabukhov-git-assessment
+ ```
 
  ## Project Code and Documentation
         
