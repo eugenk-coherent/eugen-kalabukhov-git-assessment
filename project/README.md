@@ -20,3 +20,7 @@ This repository is intended for educational purposes and does not represent a pr
 All Git operations in this repository were performed as part of a training exercise to demonstrate best practices.    
 
 Temporary note for reflog demonstration.
+
+## Additional Notes
+
+This section was added as part of a collaborative workflow simulation.
