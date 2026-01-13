@@ -52,3 +52,8 @@ The source code is provided for demonstration purposes only.
  ## License
         
  This project is licensed under the MIT License.
+
+ ## Notes
+
+ Documentation update in progress (tracked by Issue #3).
+ 
