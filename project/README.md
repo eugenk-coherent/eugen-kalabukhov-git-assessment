@@ -1,22 +1,22 @@
 # Git Assessment Project
     
-    This repository is created for Module 3 of the DevOps training.
+This repository is created for Module 3 of the DevOps training.
 
 ## Overview
 
-    This project demonstrates common Git workflows such as branching, merging, conflict resolution, and commit history cleanup.
+This project demonstrates common Git workflows such as branching, merging, conflict resolution, and commit history cleanup.
 
 ## Usage
 
-    This repository is intended for educational purposes and does not represent a production-ready application.
+This repository is intended for educational purposes and does not represent a production-ready application.
 
 ## Project Structure
     
-    - **src/** - source code files  
-    - **docs/** - project documentation  
+- **src/** - source code files  
+- **docs/** - project documentation  
 
- ## Notes
+## Notes
 
-    All Git operations in this repository were performed as part of a training exercise to demonstrate best practices.    
+All Git operations in this repository were performed as part of a training exercise to demonstrate best practices.    
 
-    Temporary note for reflog demonstration.
+Temporary note for reflog demonstration.
