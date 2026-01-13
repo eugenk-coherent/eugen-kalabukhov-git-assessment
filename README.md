@@ -55,5 +55,5 @@ The source code is provided for demonstration purposes only.
 
  ## Notes
 
- Documentation update in progress (tracked by Issue #3).
+ Documentation updated in progress (tracked by Issue #3).
  
